@@ -8,5 +8,6 @@
 * https://leetcode.com/Capt_Farvez/
 * https://open.kattis.com/users/anowar-hossen-farvez
 
-
+### Important Tutorials link:
+* String Hashing: https://cp-algorithms.com/string/string-hashing.html
 
