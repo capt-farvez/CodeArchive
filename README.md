@@ -10,4 +10,5 @@
 
 ### Important Tutorials link:
 * String Hashing: https://cp-algorithms.com/string/string-hashing.html
+* Disjoint set union: https://ashikbillahwalid.notion.site/ashikbillahwalid/Disjoint-Set-Union-c0bfe746031f41e6a2a9fe83f9685983
 
